@@ -50,15 +50,6 @@ Game development is one of the hardest environments for AI:
 We think the winning stack for AI in games will not be “more tools.”
 It will be infrastructure that makes real agentic ability and evaluation possible inside the development environment itself.
 
-## Our near-term focus
-
-Right now, our focus is on Unity and on the shortest path to real value:
-- giving agents direct runtime access to the engine
-- enabling visual and input feedback loops
-- turning those primitives into practical workflows, especially for QA, debugging, and rapid iteration
-
-Longer term, we want to help reshape the game development ecosystem around agents that can do more than suggest code — agents that can actually operate, verify, and improve live game systems.
-
 ## Principles
 
 - **Runtime first.** A game is not just source files; it is a live system.
