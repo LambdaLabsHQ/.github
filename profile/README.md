@@ -8,7 +8,7 @@ Most AI tooling around game engines inherits that limitation. It is still trappe
 
 Our goal is simple:
 
-**make AI agents first-class operators inside game engines.**
+**help reshape the entire game development ecosystem, step by step, together with the world.**
 
 We think that requires two core agentic capabilities:
 - **Ability** — agents need the power to act across code, assets, and live engine state
