@@ -2,9 +2,9 @@
 
 We are building the interface layer for AI-native game development.
 
-We believe modern game development is constrained by a deep path dependence: the toolchain is built around dense, high-friction human interaction. As a result, today's AI is still far less agentic in game development than it is in other software domains — especially in gameplay implementation, bug debugging, level design, and balancing, where progress still depends heavily on humans driving interactive tools.
+We believe modern game development is constrained by a deep path dependence: the core tools of the industry — game engines, DCC tools, and the countless in-house tools inside studios — are built around dense, high-friction human interaction. As a result, today's AI is still far less agentic in game development than it is in other software domains, because too much real work still depends on humans driving deeply interactive software.
 
-Most AI tooling around game engines inherits that limitation. It is still trapped in wrappers: fixed tools, brittle schemas, stateless commands, and shallow access to runtime state. We want to break that pattern.
+Most AI tooling around game development inherits that limitation. It is still trapped in wrappers: fixed tools, brittle schemas, stateless commands, and shallow access to runtime state. We want to overturn that foundation.
 
 **Our goal is simple: reshape game development into something truly AI-native.**
 
