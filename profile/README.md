@@ -6,9 +6,7 @@ We believe modern game development is constrained by a deep path dependence: the
 
 Most AI tooling around game engines inherits that limitation. It is still trapped in wrappers: fixed tools, brittle schemas, stateless commands, and shallow access to runtime state. We want to break that pattern.
 
-Our goal is simple:
-
-**reshape game development into something truly AI-native.**
+**Our goal is simple: reshape game development into something truly AI-native.**
 
 We think that requires two core agentic capabilities:
 - **Ability** — agents need the power to act across code, assets, and live engine state
