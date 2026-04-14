@@ -8,7 +8,7 @@ Most AI tooling around game engines inherits that limitation. It is still trappe
 
 Our goal is simple:
 
-**help reshape the entire game development ecosystem, step by step, together with the world.**
+**help reshape game development into something truly AI-native.**
 
 We think that requires two core agentic capabilities:
 - **Ability** — agents need the power to act across code, assets, and live engine state
